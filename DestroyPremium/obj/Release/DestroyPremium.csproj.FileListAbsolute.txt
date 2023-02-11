@@ -1,0 +1,12 @@
+C:\Users\emirm\Desktop\exteranl source\DestroyPremium\bin\Release\DestroyPremium.exe.config
+C:\Users\emirm\Desktop\exteranl source\DestroyPremium\bin\Release\DestroyPremium.exe
+C:\Users\emirm\Desktop\exteranl source\DestroyPremium\bin\Release\DestroyPremium.pdb
+C:\Users\emirm\Desktop\exteranl source\DestroyPremium\obj\Release\DestroyPremium.csproj.AssemblyReference.cache
+C:\Users\emirm\Desktop\exteranl source\DestroyPremium\obj\Release\DestroyPremium.csproj.SuggestedBindingRedirects.cache
+C:\Users\emirm\Desktop\exteranl source\DestroyPremium\obj\Release\DestroyPremium.Forms.Login.resources
+C:\Users\emirm\Desktop\exteranl source\DestroyPremium\obj\Release\DestroyPremium.Forms.Main.resources
+C:\Users\emirm\Desktop\exteranl source\DestroyPremium\obj\Release\DestroyPremium.Properties.newres.resources
+C:\Users\emirm\Desktop\exteranl source\DestroyPremium\obj\Release\DestroyPremium.csproj.GenerateResource.cache
+C:\Users\emirm\Desktop\exteranl source\DestroyPremium\obj\Release\DestroyPremium.csproj.CoreCompileInputs.cache
+C:\Users\emirm\Desktop\exteranl source\DestroyPremium\obj\Release\DestroyPremium.exe
+C:\Users\emirm\Desktop\exteranl source\DestroyPremium\obj\Release\DestroyPremium.pdb
